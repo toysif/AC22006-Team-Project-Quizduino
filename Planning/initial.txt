@@ -7,5 +7,3 @@ sample response: #g1q a
 b #g1q - answer b
 #g1q my score - display score for current game and lifetime score
  - tweets cannot be duplicated: answers MUST be different to the prior one!
-
-test
